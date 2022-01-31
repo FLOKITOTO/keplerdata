@@ -34,5 +34,28 @@
     "visible": true,
     "dataUrl": "https://raw.githubusercontent.com/FLOKITOTO/keplerdata/main/nyctrips/data.csv",
     "configUrl": "https://raw.githubusercontent.com/FLOKITOTO/keplerdata/main/nyctrips/config.json"
+  },
+  {
+    "id": "sfcontour",
+    "label": "San Francisco Elevation Contour",
+    "queryType": "sample",
+    "imageUrl": "http://image.noelshack.com/fichiers/2022/05/1/1643620741-layer-3.png",
+    "description": "Elevation contours of San Francisco mainland and Treasure Island/Yerba Island.",
+    "detail": "This dataset contains elevation contours for San Francisco mainland and Treasure Island/Yerba Island. Based on San Francisco Elevation Datum. Data source: [DataSF](https://data.sfgov.org/City-Infrastructure/Street-Tree-List/tkzw-k3nq/data).",
+    "size": 13598,
+    "visible": true,
+    "dataUrl": "https://raw.githubusercontent.com/FLOKITOTO/keplerdata/main/sfcontour/config.json",
+    "configUrl": "https://raw.githubusercontent.com/FLOKITOTO/keplerdata/main/sfcontour/data.json"
+  },
+  {
+    "id": "nyc_census",
+    "label": "New York City Population by Census Tract",
+    "queryType": "sample",
+    "imageUrl": "http://image.noelshack.com/fichiers/2022/05/1/1643620741-layer-3.png",
+    "description": "This dataset contains the 2010 Census tract population data of NYC.",
+    "detail": "This dataset contains the 2010 Census tract map from [NYC Open Data](https://data.cityofnewyork.us/City-Government/2010-Census-Tracts/fxpq-c8ku/data), joined with [population](https://data.cityofnewyork.us/City-Government/New-York-City-Population-By-Census-Tracts/37cg-gxjd).",
+    "size": 2166,
+    "dataUrl": "https://raw.githubusercontent.com/FLOKITOTO/keplerdata/main/nyc_census/data.json",
+    "configUrl": "https://raw.githubusercontent.com/FLOKITOTO/keplerdata/main/nyc_census/config.json"
   }
 ]
