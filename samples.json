@@ -3,7 +3,7 @@
     "id": "world_flights",
     "label": "All the Flights in the World",
     "queryType": "sample",
-    "imageUrl": "https://s3.amazonaws.com/uber-static/kepler.gl/sample/world_flight_s.png",
+    "imageUrl": "http://image.noelshack.com/fichiers/2022/05/1/1643620741-layer-3.png",
     "description": "Two hours of flight data collected by OpenSky Network on September 3rd 2019",
     "detail": "The dataset contains two hours of flight data collected using the live API of [OpenSky Network](https://opensky-network.org). The color of the flights is based on country of origin. 18 thousands flights are recorded during the two hour period. The path drops over the seas due to lack of satellite coverage. Airline info is added to each flight by joining with data from [airlinecodes.co.uk](http://www.airlinecodes.co.uk/callsignres.asp?callsign=&submit=Submit)",
     "size": 12938,
