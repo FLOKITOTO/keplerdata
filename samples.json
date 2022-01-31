@@ -10,5 +10,17 @@
     "visible": true,
     "dataUrl": "https://raw.githubusercontent.com/FLOKITOTO/keplerdata/main/world_flights/world_flights_soei4h.json",
     "configUrl": "https://raw.githubusercontent.com/FLOKITOTO/keplerdata/main/world_flights/config_soei4h.json"
+  },
+  {
+    "id": "earthquakes",
+    "label": "California Earthquakes",
+    "queryType": "sample",
+    "imageUrl": "http://image.noelshack.com/fichiers/2022/05/1/1643620741-layer-3.png",
+    "description": "Location, magnitude and type of 2.5+ magnitude earthquakes in california.",
+    "detail": "The dataset contains a list of 2.5+ magnitude earthquakes in california. Information was generated using USGS website and contains multiple properties (location, magnitude, magtype) for each single entry. Data source: [USGS](https://earthquake.usgs.gov/data/data.php)",
+    "size": 54936,
+    "visible": true,
+    "dataUrl": "https://raw.githubusercontent.com/FLOKITOTO/keplerdata/main/earthquakes/data.csv",
+    "configUrl": "https://raw.githubusercontent.com/FLOKITOTO/keplerdata/main/earthquakes/config.json"
   }
 ]
