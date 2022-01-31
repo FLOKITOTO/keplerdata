@@ -22,5 +22,17 @@
     "visible": true,
     "dataUrl": "https://raw.githubusercontent.com/FLOKITOTO/keplerdata/main/earthquakes/data.csv",
     "configUrl": "https://raw.githubusercontent.com/FLOKITOTO/keplerdata/main/earthquakes/config.json"
+  },
+  {
+    "id": "nyctrips",
+    "label": "NYC Taxi Trips",
+    "queryType": "sample",
+    "imageUrl": "http://image.noelshack.com/fichiers/2022/05/1/1643620741-layer-3.png",
+    "description": "A small sample of yellow and green taxi trip records in New York City.",
+    "detail": "The yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. Data is downloaded from [NYC Taxi and Limousine Commission (TLC)](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page) website.",
+    "size": 97986,
+    "visible": true,
+    "dataUrl": "https://raw.githubusercontent.com/FLOKITOTO/keplerdata/main/nyctrips/data.csv",
+    "configUrl": "https://raw.githubusercontent.com/FLOKITOTO/keplerdata/main/nyctrips/config.json"
   }
 ]
